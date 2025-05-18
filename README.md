@@ -10,7 +10,7 @@
 ---
 
 ## Final Report
-The final report can be found in `[Entangle5 FLIQ Challenge Report.pdf](Entangle5 FLIQ Challenge Report.pdf)`.
+The final report can be found in `(Entangle5 FLIQ Challenge Report.pdf)`.
 
 ---
 
